@@ -13,7 +13,8 @@ Created  a New Customization to add a  New Tab in priceList Maintenance Screen:
 
 
 Developed  a Method Directive on SalesOrder screen to Create Auto OrderMsc for the Price List.
-* Invoked OrderMsc Table
+* Invoked OrderMsc Tableset
+* UpdateExt
 * Read UD10 table using Linqquery
   
 ![image](https://github.com/MuraliDharanGopalakrishnan/PriceList/assets/102019076/bb4a5882-0020-4e88-a6b6-a3b7bb220f73)
